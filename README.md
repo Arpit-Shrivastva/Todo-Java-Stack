@@ -1,1 +1,3 @@
 # Todo-Java-Stack
+
+A TODO application is a simple yet powerful tool for managing tasks and improving productivity. It typically includes features for adding, updating, deleting, and marking tasks as complete. Users can categorize tasks and set deadlines or priorities. The backend, often developed using Java Spring Boot, handles task storage, retrieval, and business logic. The frontend, built with Angular, provides a user-friendly interface for interacting with the task data. Data is stored in a database, such as MySQL or MongoDB, ensuring persistence and consistency. This application facilitates efficient task management and enhances user productivity by keeping tasks organized and easily accessible.
